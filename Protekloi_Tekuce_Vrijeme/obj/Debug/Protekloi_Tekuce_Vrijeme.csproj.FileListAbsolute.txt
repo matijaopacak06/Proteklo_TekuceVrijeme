@@ -1,0 +1,10 @@
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\bin\Debug\Protekloi_Tekuce_Vrijeme.exe.config
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\bin\Debug\Protekloi_Tekuce_Vrijeme.exe
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\bin\Debug\Protekloi_Tekuce_Vrijeme.pdb
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.csproj.AssemblyReference.cache
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.Form1.resources
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.Properties.Resources.resources
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.csproj.GenerateResource.cache
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.exe
+C:\Users\matij\source\repos\Protekloi_Tekuce_Vrijeme\Protekloi_Tekuce_Vrijeme\obj\Debug\Protekloi_Tekuce_Vrijeme.pdb
